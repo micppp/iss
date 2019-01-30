@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ISS Location",
+  "name": "Create React App demonstrating where in the world the ISS is",
   "icons": [
     {
       "src": "favicon.ico",
